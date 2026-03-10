@@ -9,9 +9,9 @@ class Person {
 	{
 		return this.name;
 	}
-	age(newage)
+	age(age)
 	{
-		this.age=newage
+		this.age=age
 	 return this.age;
 	}
 }
